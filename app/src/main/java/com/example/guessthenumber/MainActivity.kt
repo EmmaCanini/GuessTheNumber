@@ -64,7 +64,7 @@ fun appScreen() {
 fun Header() {
     val headerModifier = Modifier.fillMaxSize()
     Box(modifier = headerModifier) {
-        Text(text = "Welcome",
+        Text(text = "GUESSTHENUMBER",
             fontSize = 46.sp,
             textAlign = TextAlign.Center,
             modifier = Modifier.fillMaxWidth()
