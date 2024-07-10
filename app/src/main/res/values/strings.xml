@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GuessTheNumber</string>
+    <string name="button_label">Guess</string>
+</resources>
